@@ -1,6 +1,8 @@
 [submodule "core"]
 	path = core
-	url = https://github.com/gvsoc/gvsoc-core.git
+	branch = master
+	url = https://github.com/EEESlab/gvsoc-core.git
 [submodule "pulp"]
 	path = pulp
-	url = https://github.com/gvsoc/gvsoc-pulp.git
+	branch = master
+	url = https://github.com/EEESlab/gvsoc-pulp.git
