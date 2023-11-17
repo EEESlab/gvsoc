@@ -1,8 +1,8 @@
 [submodule "core"]
 	path = core
-	branch = master
+	branch = tristan-dev
 	url = https://github.com/EEESlab/gvsoc-core.git
 [submodule "pulp"]
 	path = pulp
-	branch = master
+	branch = tristan-dev
 	url = https://github.com/EEESlab/gvsoc-pulp.git
